@@ -1,4 +1,4 @@
-# Skills Showcase: Firewall, Compliance & Hardening (2019–2025)
+# Skills Showcase: Firewall, Compliance & Hardening
 
 **Author:** Jessica S. Marosi 
 
