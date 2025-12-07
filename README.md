@@ -29,8 +29,6 @@
 - **DeepSee™ Demo:** [Watch Cockpit Walkthrough](https://www.youtube.com/watch?v=YOUR_DEMO_LINK)  
 - **Live Map:** [Spring Hill Halloween Map](https://jessimarosi.github.io/2025-Halloween-Map-Spring-Hill-FL/)  
 
---
-
 **Profiles & Demos:**  
 - [LinkedIn](https://www.linkedin.com/in/jessicasmarosi/)  
 - [GitHub](https://www.github.com/JessiMarosi)  
