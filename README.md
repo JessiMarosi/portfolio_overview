@@ -16,7 +16,7 @@
 
 ## 📊 Impact Metrics
 
-- **System Hardening:** Progressed Lynis index from 63 → 77 through iterative kernel tuning, persistent auditd, and AIDE validation. This reflects reproducible compliance maturity and  advanced security hardening practices beyond entry‑level expectations.
+- **System Hardening:** Progressed Lynis index from 63 → 77 through iterative kernel tuning, persistent auditd, and AIDE validation.
 - **Detection Accuracy:** DeepSee™ prototype validated against 100+ test cases with reproducible verdicts.  
 - **Public Usability:** Halloween Map deployed via GitHub Pages with civic tagging and opt‑in logic.  
 - **Documentation Depth:** All repos include audit‑grade READMEs, forensic guarantees, and reproducibility notes.  
