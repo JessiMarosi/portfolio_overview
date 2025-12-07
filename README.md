@@ -23,16 +23,17 @@
 
 ---
 
-## 🎯 For Recruiters
+## 🎯Demos and Public Profiles
 
-- **LinkedIn:** [linkedin.com/in/jessimarosi](https://www.linkedin.com/in/jessimarosi)  
-- **DeepSee™ Demo:** [Watch Cockpit Walkthrough](https://www.youtube.com/watch?v=YOUR_DEMO_LINK)  
-- **Live Map:** [Spring Hill Halloween Map](https://jessimarosi.github.io/2025-Halloween-Map-Spring-Hill-FL/)  
+**Profile Demos** 
+- Demo: [Watch on YouTube](https://youtu.be/5QtJtWQY8X8)
+- Demo: (https://floodfactorapp.onrender.com/)
+- Demo: (https://jessimarosi.github.io/2025-Halloween-Map-Spring-Hill-FL/)
+- Demo: [STIG‑Hardened‑Lab](https://github.com/JessiMarosi/STIG-Hardened-Lab)
 
-**Profiles & Demos:**  
+**Public Profiles** 
 - [LinkedIn](https://www.linkedin.com/in/jessicasmarosi/)  
 - [GitHub](https://www.github.com/JessiMarosi)  
-- [YouTube Demo](https://youtu.be/5QtJtWQY8X8)  
 - [X Profile](https://x.com/DeepSeeLive)  
 
 ---
