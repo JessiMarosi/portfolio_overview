@@ -16,7 +16,7 @@
 
 ## 📊 Impact Metrics
 
-- **Hardening Index:** Improved from **71 → 73** through kernel tweaks, persistent auditd, and AIDE validation.  
+- **Hardening Index:** Improved from **71 → 77** through kernel tweaks, persistent auditd, and AIDE validation.  
 - **Detection Accuracy:** DeepSee™ prototype validated against 100+ test cases with reproducible verdicts.  
 - **Public Usability:** Halloween Map deployed via GitHub Pages with civic tagging and opt‑in logic.  
 - **Documentation Depth:** All repos include audit‑grade READMEs, forensic guarantees, and reproducibility notes.  
