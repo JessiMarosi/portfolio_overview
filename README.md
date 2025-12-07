@@ -1,6 +1,35 @@
 # Skills Showcase: Firewall, Compliance & Hardening (2019–2025)
 
-**Author:** Jessica S. Marosi  
+**Author:** Jessica S. Marosi 
+
+## 🕒 Timeline of Technical Progression
+
+| Phase        | Milestone                | Description |
+|--------------|--------------------------|-------------|
+| **2019–2021** | Saint Leo Labs           | Early experimentation with Python, basic firewall configs, and system hardening concepts. |
+| **2022**     | Compliance Foundations   | Introduced NIST 800‑53 alignment, auditd logging, and reproducibility checkpoints. |
+| **2023**     | Forensic Logic & Civic Tools | Built FloodFactorApp and ChainLogic‑DCCS with jurisdictional routing and custody guarantees. |
+| **2024**     | Platform Architecture    | Designed DeepSee™ and Veridion™ with privacy‑first detection, export manifests, and cockpit UI. |
+| **2025**     | Public Demos & Recruiter Assets | Launched GitHub Pages map, YouTube cockpit walkthrough, and master portfolio overview. |
+
+---
+
+## 📊 Impact Metrics
+
+- **Hardening Index:** Improved from **71 → 73** through kernel tweaks, persistent auditd, and AIDE validation.  
+- **Detection Accuracy:** DeepSee™ prototype validated against 100+ test cases with reproducible verdicts.  
+- **Public Usability:** Halloween Map deployed via GitHub Pages with civic tagging and opt‑in logic.  
+- **Documentation Depth:** All repos include audit‑grade READMEs, forensic guarantees, and reproducibility notes.  
+
+---
+
+## 🎯 For Recruiters
+
+- **LinkedIn:** [linkedin.com/in/jessimarosi](https://www.linkedin.com/in/jessimarosi)  
+- **DeepSee™ Demo:** [Watch Cockpit Walkthrough](https://www.youtube.com/watch?v=YOUR_DEMO_LINK)  
+- **Live Map:** [Spring Hill Halloween Map](https://jessimarosi.github.io/2025-Halloween-Map-Spring-Hill-FL/)  
+
+--
 
 **Profiles & Demos:**  
 - [LinkedIn](https://www.linkedin.com/in/jessicasmarosi/)  
