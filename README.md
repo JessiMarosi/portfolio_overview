@@ -4,12 +4,12 @@
 
 ## 🕒 Timeline of Technical Progression
 
-| Phase        | Milestone                | Description |
-|--------------|--------------------------|-------------|
-| **2019–2021** | Saint Leo Labs           | Early experimentation with Python, basic firewall configs, and system hardening concepts. |
-| **2022**     | Compliance Foundations   | Introduced NIST 800‑53 alignment, auditd logging, and reproducibility checkpoints. |
-| **2023**     | Forensic Logic & Civic Tools | Built FloodFactorApp and ChainLogic‑DCCS with jurisdictional routing and custody guarantees. |
-| **2024**     | Platform Architecture    | Designed DeepSee™ and Veridion™ with privacy‑first detection, export manifests, and cockpit UI. |
+| Phase        | Milestone                       | Description |
+|--------------|---------------------------------|-------------|
+| **2023**     | Saint Leo Labs                  | Early experimentation with Python, basic firewall configs, and system hardening concepts. |
+| **2023**     | Compliance Foundations          | Introduced NIST 800‑53 alignment, auditd logging, and reproducibility checkpoints. |
+| **2023**     | Forensic Logic & Civic Tools    | Built FloodFactorApp and ChainLogic‑DCCS with jurisdictional routing and custody guarantees. |
+| **2024**     | Platform Architecture           | Designed DeepSee™ and Veridion™ with privacy‑first detection, export manifests, and cockpit UI. |
 | **2025**     | Public Demos & Recruiter Assets | Launched GitHub Pages map, YouTube cockpit walkthrough, and master portfolio overview. |
 
 ---
