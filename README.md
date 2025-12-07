@@ -17,7 +17,8 @@
 ## 📊 Impact Metrics
 
 - **System Hardening:** Progressed Lynis index from 63 → 77 through kernel tuning, persistent auditd, and AIDE validation.  
-- **Detection Accuracy:** DeepSee™ prototype achieved 98–100% accuracy in classifying human vs AI images across 100+ test cases.  
+- **Vulnerability Reduction:** Reduced High/Critical vulnerabilities by 78% across pfSense firewall and OpenVPN, validated by Nessus scans.  
+- **Detection Performance:** Optimized DeepSee™ search latency from 388 seconds (6 min 28 sec) to <1 second while achieving 98–100% accuracy across 100+ test cases.  
 - **Firewall Segmentation:** Implemented 12 rules across 4 zones to enforce Zero Trust boundaries in STIG‑Hardened Lab.  
 - **Compliance Coverage:** Resolved 85% of STIG findings, validated with automated scans and reproducible documentation.  
 - **Integrity Validation:** Verified 1000+ system files with AIDE baselines, ensuring forensic reproducibility.  
